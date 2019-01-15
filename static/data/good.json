@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Armani阿玛尼红管 臻致丝绒哑光唇釉 #502 酒红宝石",
+        "src":"/static/img/amn(5).jpg",
+        "price": 299,
+        "preprice": 310
+    },
+    {
+        "id": 2,
+        "title": "Armani阿玛尼红管 臻致丝绒哑光唇釉 #502 酒红宝石",
+        "src":"/static/img/amn(4).jpg",
+        "price": 299,
+        "preprice": 310
+    }
+]
